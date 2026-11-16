@@ -1,16 +1,54 @@
-## Hi there 👋
+# `wayne-14e@github:~$`
 
-<!--
-**wayne-14e/wayne-14e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+██╗    ██╗ █████╗ ██╗   ██╗███╗   ██╗███████╗
+██║    ██║██╔══██╗╚██╗ ██╔╝████╗  ██║██╔════╝
+██║ █╗ ██║███████║ ╚████╔╝ ██╔██╗ ██║█████╗
+██║███╗██║██╔══██║  ╚██╔╝  ██║╚██╗██║██╔══╝
+╚███╔███╔╝██║  ██║   ██║   ██║ ╚████║███████╗
+ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚══════╝
+```
 
-Here are some ideas to get you started:
+```bash
+$ whoami
+Sardor Omonov
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat about.txt
+All-round developer.
+Building products, exploring algorithms, and understanding how technology works under the hood.
+
+$ cat current_mission.txt
+- Software engineering
+- Artificial Intelligence & Machine Learning
+- Data Science
+- Problem Solving
+```
+
+---
+
+### `// TECH STACK`
+
+**Languages**
+- Python // SQL // JS
+
+**Frameworks, databases & tools**
+- React // Next.js // Supabase / Firebase // Jupiter Notebook
+
+**Design & deployment**
+- Vercel / Cloudflare
+
+---
+
+### `// CONNECT`
+- [Telegram](t.me/wayne_14e)
+- [LinkedIn](https://www.linkedin.com/in/sardor-o31)
+- Emails: `omonov.s4rdor@yandex.com` // `sardieyeee08@gmail.com`
+
+---
+
+```bash
+$ echo "Keep building. Keep learning."
+Keep building. Keep learning.
+
+$ _
+```
