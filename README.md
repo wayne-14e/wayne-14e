@@ -49,6 +49,4 @@ $ cat current_mission.txt
 ```bash
 $ echo "Keep building. Keep learning."
 Keep building. Keep learning.
-
-$ _
 ```
