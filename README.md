@@ -29,10 +29,10 @@ $ cat current_mission.txt
 ### `// TECH STACK`
 
 **Languages**
-- Python // SQL // JS
+- Python / JavaScript / Bash / SQL / PHP
 
 **Frameworks, databases & tools**
-- React // Next.js // Supabase / Firebase // Jupiter Notebook
+- React / Next.js / Supabase / Firebase / Jupiter Notebook
 
 **Design & deployment**
 - Vercel / Cloudflare
